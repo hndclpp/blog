@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
+      - name: Create data directory
+        run: mkdir -p data
+      
       - name: Update Bangumi Data
         env:
           BILIBILI_UID: "356742437"  # 你的B站UID
@@ -57,7 +60,7 @@ jobs:
               }
               
               # 保存为JSON文件
-              $animeList | ConvertTo-Json -Depth 10 | Out-File -Encoding UTF8 "data/bangumi.json"
+              $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "data/bangumi.json" -Encoding UTF8
               
               # 如果有更改，提交到仓库
               git config --global user.name 'GitHub Action'
