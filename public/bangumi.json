@@ -1,1 +1,228 @@
-
+[
+  {
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "new_ep": {
+      "index_show": "全24话",
+      "pub_time": "2021-03-27 01:40:00"
+    },
+    "progress": "/",
+    "evaluate": "少年战斗着——「为寻求正确的死亡」\n辛酸·后悔·耻辱\n\n人类产生的负面情感，化为诅咒，潜入日常生活\n\n诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡\n并且，诅咒只能以诅咒祓除\n\n拥有惊人身体...",
+    "title": "咒术回战",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
+    "update_time": "2025-01-02 01:49:05",
+    "subtitle": "我无敌，你随意",
+    "season_status": 13,
+    "rating": {
+      "score": 9.7
+    },
+    "styles": [
+      "热血",
+      "奇幻",
+      "战斗",
+      "漫画改"
+    ],
+    "stat": {
+      "view": 949309430,
+      "follow": 13164154
+    }
+  },
+  {
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "new_ep": {
+      "index_show": "更新至第11话",
+      "pub_time": "2024-12-29 11:00:02"
+    },
+    "progress": "/",
+    "evaluate": "【第2-13集大会员抢先1集，第14集起大会员专享】\n残老村中住着来历莫测的九位老人和他们抚养长大的少年秦牧。一日，秦牧负责放牧的母牛竟然口吐人言，自此秦牧更加认识到大墟这片神弃之地的危险绮丽：魔神随...",
+    "title": "牧神记",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c9da1f1ee78a6bad88846251426c232c1b7f9c71.jpg",
+    "update_time": "2025-01-02 01:49:05",
+    "subtitle": "放牛少年，放牧诸神",
+    "season_status": 13,
+    "rating": {
+      "score": 9.7
+    },
+    "styles": [
+      "小说改",
+      "热血",
+      "玄幻",
+      "战斗"
+    ],
+    "stat": {
+      "view": 134825525,
+      "follow": 1616250
+    }
+  },
+  {
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "new_ep": {
+      "index_show": "全26话",
+      "pub_time": "2019-09-29 00:00:03"
+    },
+    "progress": "/",
+    "evaluate": "大正时期，日本。心地善良的卖炭少年·炭治郎，有一天他的家人被鬼杀死了。而唯一幸存下来的妹妹——祢豆子变成了鬼。被绝望的现实打垮的炭治郎，为了寻找让妹妹变回人类的方法，决心朝着“鬼杀队”的道路前进。\n人...",
+    "title": "鬼灭之刃",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/4179b4398bad6f92e876e352cae21be7b8ceb8bf.png",
+    "update_time": "2025-01-02 01:49:05",
+    "subtitle": "谁都斩不断的羁绊",
+    "season_status": 13,
+    "rating": {
+      "score": 9.7
+    },
+    "styles": [
+      "热血",
+      "奇幻",
+      "战斗",
+      "声控",
+      "漫画改",
+      "励志",
+      "冒险"
+    ],
+    "stat": {
+      "view": 1070706582,
+      "follow": 13217868
+    }
+  },
+  {
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "new_ep": {
+      "index_show": "更新至第1205话",
+      "pub_time": "2024-12-28 19:30:00"
+    },
+    "progress": "/",
+    "evaluate": "主角工藤新一原本是一位颇具名声的高中生侦探，在目击黑暗组织的地下交易后，正准备追踪时却被突袭击昏，并被灌下代号为“APTX4869”的不明药物。后来虽然幸免于死，但身体就此缩小为小学时期的模样。之后他...",
+    "title": "名侦探柯南",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+    "update_time": "2025-01-02 01:49:05",
+    "subtitle": "真相永远只有一个",
+    "season_status": 13,
+    "rating": {
+      "score": 9.8
+    },
+    "styles": [
+      "智斗",
+      "推理",
+      "漫画改",
+      "悬疑"
+    ],
+    "stat": {
+      "view": 1235877160,
+      "follow": 5085583
+    }
+  },
+  {
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "new_ep": {
+      "index_show": "全28话",
+      "pub_time": "2024-04-12 20:00:01"
+    },
+    "progress": "/",
+    "evaluate": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。\n\n邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。为了前...",
+    "title": "葬送的芙莉莲",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f3ebb500b701a387f5abde67516c5c96bbd2faff.png",
+    "update_time": "2025-01-02 01:49:05",
+    "subtitle": "花海盛开，故人归来",
+    "season_status": 13,
+    "rating": {
+      "score": 9.9
+    },
+    "styles": [
+      "治愈",
+      "奇幻",
+      "催泪",
+      "漫画改",
+      "冒险"
+    ],
+    "stat": {
+      "view": 322335440,
+      "follow": 4420219
+    }
+  },
+  {
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "new_ep": {
+      "index_show": "更新至第124话",
+      "pub_time": "2024-10-19 11:00:00"
+    },
+    "progress": "/",
+    "evaluate": "【第1集免费，第2-10集、第22-25集、第73-76集限时免费】\n看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑...",
+    "title": "凡人修仙传",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a5dc75c70d0f54091b5cdbb32683084b7cb5bfd9.png",
+    "update_time": "2025-01-02 01:49:05",
+    "subtitle": "平凡少年修炼成神",
+    "season_status": 13,
+    "rating": {
+      "score": 9.7
+    },
+    "styles": [
+      "小说改",
+      "热血",
+      "玄幻",
+      "战斗",
+      "励志",
+      "古风",
+      "武侠"
+    ],
+    "stat": {
+      "view": 2985732147,
+      "follow": 10015121
+    }
+  },
+  {
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "new_ep": {
+      "index_show": "更新至第56话",
+      "pub_time": "2024-11-08 12:00:01"
+    },
+    "progress": "/",
+    "evaluate": "在大气磅礴的奇幻世界里，主角方寒如何凭借一己之力纵横天地之间。靠着一股不服输的倔强突破神通的奥秘，将肉身锻成永生之躯。无穷无尽的新奇法宝，崭新的仙魔凡三界盛世将由主角依次开启。将带你感受仙教魔门，人魔...",
+    "title": "永生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/739a202bc7dd0efc2d9c7d2a130dd705324f928f.png",
+    "update_time": "2025-01-02 01:49:05",
+    "subtitle": "仙魔双修，唯我独尊",
+    "season_status": 13,
+    "rating": {
+      "score": 8.6
+    },
+    "styles": null,
+    "stat": {
+      "view": 534044245,
+      "follow": 4097249
+    }
+  }
+]
