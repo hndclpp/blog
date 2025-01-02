@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Create data directory
-        run: mkdir -p data
+      - name: Create public directory
+        run: mkdir -p public
       
       - name: Update Bangumi Data
         env:
@@ -59,13 +59,13 @@ jobs:
                   }
               }
               
-              # 保存为JSON文件
-              $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "data/bangumi.json" -Encoding UTF8
+              # 保存为JSON文件到 public 目录
+              $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "public/bangumi.json" -Encoding UTF8
               
               # 如果有更改，提交到仓库
               git config --global user.name 'GitHub Action'
               git config --global user.email 'action@github.com'
-              git add data/bangumi.json
+              git add public/bangumi.json
               git commit -m "Update bangumi data" || exit 0  # 如果没有更改就退出
               git push
               
@@ -80,4 +80,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: bangumi-data
-          path: data/bangumi.json 
+          path: public/bangumi.json 
