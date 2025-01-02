@@ -1,0 +1,83 @@
+name: Update Bangumi Data
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-bangumi:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup PowerShell
+        uses: PowerShell/PowerShell-Action@v1
+        
+      - name: Update Bangumi Data
+        env:
+          BILIBILI_UID: "356742437"  # 你的B站UID
+        run: |
+          # 设置编码为UTF8
+          [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+          $PSDefaultParameterValues['*:Encoding'] = 'utf8'
+          
+          try {
+              # 获取追番数据
+              $url = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=1&follow_status=0&pn=1&ps=30"
+              $response = Invoke-RestMethod -Uri $url -ErrorAction Stop
+              
+              if ($response.code -ne 0) {
+                  Write-Error "$($response.message)"
+                  exit 1
+              }
+              
+              # 处理数据
+              $animeList = $response.data.list | ForEach-Object {
+                  @{
+                      title = $_.title
+                      cover = $_.cover
+                      progress = "$($_.progress)/$($_.total)"
+                      evaluate = $_.evaluate
+                      areas = $_.areas
+                      styles = $_.styles
+                      new_ep = @{
+                          index_show = $_.new_ep.index_show
+                          pub_time = $_.new_ep.pub_time
+                      }
+                      season_status = $_.season_status
+                      subtitle = $_.subtitle
+                      rating = @{
+                          score = $_.rating.score
+                      }
+                      stat = @{
+                          follow = $_.stat.follow
+                          view = $_.stat.view
+                      }
+                      update_time = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
+                  }
+              }
+              
+              # 保存为JSON文件
+              $animeList | ConvertTo-Json -Depth 10 | Out-File -Encoding UTF8 "data/bangumi.json"
+              
+              # 如果有更改，提交到仓库
+              git config --global user.name 'GitHub Action'
+              git config --global user.email 'action@github.com'
+              git add data/bangumi.json
+              git commit -m "Update bangumi data" || exit 0  # 如果没有更改就退出
+              git push
+              
+          } catch {
+              Write-Error "发生错误: $_"
+              exit 1
+          }
+        shell: pwsh
+        
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: bangumi-data
+          path: data/bangumi.json
