@@ -12,9 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Setup PowerShell
-        uses: PowerShell/PowerShell-Action@v1
-        
       - name: Update Bangumi Data
         env:
           BILIBILI_UID: "356742437"  # 你的B站UID
@@ -80,4 +77,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: bangumi-data
-          path: data/bangumi.json
+          path: data/bangumi.json 
