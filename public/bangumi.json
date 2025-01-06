@@ -1,13 +1,57 @@
 [
   {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "为了在新生欢迎会上表演话剧“西游记”，大雄班级举行的话剧的排练。大雄想当孙悟空，可是却只是村人甲。为了证明自己最像孙悟空，大雄用航时机来到中国唐朝，想见孙悟空，而且真的见到了（实际为大雄假扮）。后来大...",
-    "subtitle": "五人组的修行之徒",
-    "stat": {
-      "view": 4385268,
-      "follow": 109589
+    "new_ep": {
+      "index_show": "更新至第29话",
+      "pub_time": "2025-01-04 09:00:01"
     },
-    "title": "哆啦A梦 大雄的平行西游记",
+    "season_status": 13,
+    "evaluate": "【第5集起大会员专享】传奇黑客为拯救人类被系统AI追杀身死，意外成为异界第一宗门的宗主，但为了应对宗内全是卧底的局面和随身而来的系统危机，陈宁只想低调的再观望看看。但如锥处囊中，纵使他冷面无双心系世人...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "rating": {
+      "score": null
+    },
+    "progress": "/",
+    "stat": {
+      "view": 86675786,
+      "follow": 510089
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b38ef52744dca9356e9a5ef877692ae5376bfcae.png",
+    "styles": [
+      "小说改",
+      "玄幻",
+      "战斗"
+    ],
+    "subtitle": "宗门游戏，坐等开玩",
+    "title": "宗门里除了我都是卧底",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全1话",
+      "pub_time": "2015-02-14 17:22:00"
+    },
+    "season_status": 2,
+    "evaluate": "为了在新生欢迎会上表演话剧“西游记”，大雄班级举行的话剧的排练。大雄想当孙悟空，可是却只是村人甲。为了证明自己最像孙悟空，大雄用航时机来到中国唐朝，想见孙悟空，而且真的见到了（实际为大雄假扮）。后来大...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "rating": {
+      "score": 9.1
+    },
+    "progress": "/",
+    "stat": {
+      "view": 4385312,
+      "follow": 109588
+    },
+    "cover": "http://i0.hdslb.com/bfs/bangumi/d41c40dfec72f24a72081e4a4e1223bab4f5a9c0.jpg",
     "styles": [
       "少儿",
       "奇幻",
@@ -16,226 +60,226 @@
       "穿越",
       "冒险"
     ],
-    "rating": {
-      "score": 9.1
-    },
-    "progress": "/",
-    "new_ep": {
-      "pub_time": "2015-02-14 17:22:00",
-      "index_show": "全1话"
-    },
-    "cover": "http://i0.hdslb.com/bfs/bangumi/d41c40dfec72f24a72081e4a4e1223bab4f5a9c0.jpg",
-    "areas": [
-      {
-        "id": 2,
-        "name": "日本"
-      }
-    ],
-    "season_status": 2
+    "subtitle": "五人组的修行之徒",
+    "title": "哆啦A梦 大雄的平行西游记",
+    "update_time": "2025-01-06 00:44:58"
   },
   {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "【第2-13集大会员抢先1集，第14集起大会员专享】\n残老村中住着来历莫测的九位老人和他们抚养长大的少年秦牧。一日，秦牧负责放牧的母牛竟然口吐人言，自此秦牧更加认识到大墟这片神弃之地的危险绮丽：魔神随...",
-    "subtitle": "放牛少年，放牧诸神",
-    "stat": {
-      "view": 144528572,
-      "follow": 1664573
+    "new_ep": {
+      "index_show": "更新至第12话",
+      "pub_time": "2025-01-05 11:00:02"
     },
-    "title": "牧神记",
+    "season_status": 13,
+    "evaluate": "【第2-13集大会员抢先1集，第14集起大会员专享】\n残老村中住着来历莫测的九位老人和他们抚养长大的少年秦牧。一日，秦牧负责放牧的母牛竟然口吐人言，自此秦牧更加认识到大墟这片神弃之地的危险绮丽：魔神随...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "rating": {
+      "score": 9.7
+    },
+    "progress": "/",
+    "stat": {
+      "view": 144841332,
+      "follow": 1665842
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c9da1f1ee78a6bad88846251426c232c1b7f9c71.jpg",
     "styles": [
       "小说改",
       "热血",
       "玄幻",
       "战斗"
     ],
-    "rating": {
-      "score": 9.7
-    },
-    "progress": "/",
+    "subtitle": "放牛少年，放牧诸神",
+    "title": "牧神记",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
     "new_ep": {
-      "pub_time": "2025-01-05 11:00:02",
-      "index_show": "更新至第12话"
+      "index_show": "全11话",
+      "pub_time": "2020-02-18 18:30:00"
     },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c9da1f1ee78a6bad88846251426c232c1b7f9c71.jpg",
+    "season_status": 2,
+    "evaluate": "讲述了勤劳的兔子们为了建立一个吃得饱穿得暖不被人看不起的种花家，辛勤奋斗的故事。...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "讲述了勤劳的兔子们为了建立一个吃得饱穿得暖不被人看不起的种花家，辛勤奋斗的故事。...",
-    "subtitle": "此生无悔入华夏",
-    "stat": {
-      "view": 119626551,
-      "follow": 2924663
-    },
-    "title": "那年那兔那些事儿 第五季",
-    "styles": null,
     "rating": {
       "score": 9.6
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2020-02-18 18:30:00",
-      "index_show": "全11话"
+    "stat": {
+      "view": 119628467,
+      "follow": 2924672
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/80c412b59a818336685eafca6829f2b40cf3cf7c.jpg",
+    "styles": null,
+    "subtitle": "此生无悔入华夏",
+    "title": "那年那兔那些事儿 第五季",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全12话",
+      "pub_time": "2017-11-29 19:42:00"
+    },
+    "season_status": 2,
+    "evaluate": "我们也曾彷徨，我们也曾迷茫，但是我们从来不曾退缩，兔子永远走在挑战强者的路上。那年那兔那些事儿第四季，全方位展现“地面最强”的童年！...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 2
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "我们也曾彷徨，我们也曾迷茫，但是我们从来不曾退缩，兔子永远走在挑战强者的路上。那年那兔那些事儿第四季，全方位展现“地面最强”的童年！...",
-    "subtitle": "兔子从来不曾退缩",
-    "stat": {
-      "view": 99989983,
-      "follow": 1310092
-    },
-    "title": "那年那兔那些事儿 第四季",
-    "styles": null,
     "rating": {
       "score": 9.4
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2017-11-29 19:42:00",
-      "index_show": "全12话"
+    "stat": {
+      "view": 99991688,
+      "follow": 1310095
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/c8458f588c49f42578f5d6bd48785b0573d85a9b.jpg",
+    "styles": null,
+    "subtitle": "兔子从来不曾退缩",
+    "title": "那年那兔那些事儿 第四季",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全12话",
+      "pub_time": "2017-03-08 17:48:00"
+    },
+    "season_status": 2,
+    "evaluate": "那年，兔子的种花家没有了大规模的威胁，和蓝星的小伙伴们的关系也在日渐和谐。但笑与泪的生活还在继续，之后还会发生什么有趣的事情呢？我也不知道啊！作者我压根就没想过这我兔居然能出到第三季！...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 2
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "那年，兔子的种花家没有了大规模的威胁，和蓝星的小伙伴们的关系也在日渐和谐。但笑与泪的生活还在继续，之后还会发生什么有趣的事情呢？我也不知道啊！作者我压根就没想过这我兔居然能出到第三季！...",
-    "subtitle": "蓝星日益和谐",
-    "stat": {
-      "view": 173875931,
-      "follow": 1417845
-    },
-    "title": "那年那兔那些事儿 第三季",
-    "styles": null,
     "rating": {
       "score": 9.6
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2017-03-08 17:48:00",
-      "index_show": "全12话"
+    "stat": {
+      "view": 173878555,
+      "follow": 1417854
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/e3366e021abb45f74bf99c1e140eee45605ec52a.jpg",
+    "styles": null,
+    "subtitle": "蓝星日益和谐",
+    "title": "那年那兔那些事儿 第三季",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全5话",
+      "pub_time": "2016-09-18 10:35:15"
+    },
+    "season_status": 2,
+    "evaluate": "第一季未出现的朝鲜篇的完整版，作者的怨念在此得到了解脱，并带着幸福并感激着的心，再一次带各位重温那些最可爱的人。...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 2
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "第一季未出现的朝鲜篇的完整版，作者的怨念在此得到了解脱，并带着幸福并感激着的心，再一次带各位重温那些最可爱的人。...",
-    "subtitle": "朝鲜篇的完整版",
-    "stat": {
-      "view": 49810351,
-      "follow": 841946
-    },
-    "title": "那年那兔那些事儿 番外篇",
-    "styles": null,
     "rating": {
       "score": 9.6
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2016-09-18 10:35:15",
-      "index_show": "全5话"
+    "stat": {
+      "view": 49810894,
+      "follow": 841951
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/46da7d61ddacf92f051fcaa8725409350f2a00d7.jpg",
+    "styles": null,
+    "subtitle": "朝鲜篇的完整版",
+    "title": "那年那兔那些事儿 番外篇",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全12话",
+      "pub_time": "2016-04-15 16:31:00"
+    },
+    "season_status": 2,
+    "evaluate": "本片讲述了一群兔子由于被封锁而与很多第三世界的河马作伴，在基乐永生与喧哗上等的冷战中，夹缝中求生存。并重新回到世界舞台，与鹰酱毛熊重修旧好的故事。...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 2
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "本片讲述了一群兔子由于被封锁而与很多第三世界的河马作伴，在基乐永生与喧哗上等的冷战中，夹缝中求生存。并重新回到世界舞台，与鹰酱毛熊重修旧好的故事。...",
-    "subtitle": "夹缝中求生存",
-    "stat": {
-      "view": 192479718,
-      "follow": 1602700
-    },
-    "title": "那年那兔那些事儿 第二季",
-    "styles": null,
     "rating": {
       "score": 9.6
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2016-04-15 16:31:00",
-      "index_show": "全12话"
+    "stat": {
+      "view": 192482187,
+      "follow": 1602712
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/7ef28bab7b15bf86c21b1ecfae50816e35ac8090.jpg",
+    "styles": null,
+    "subtitle": "夹缝中求生存",
+    "title": "那年那兔那些事儿 第二季",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全12话",
+      "pub_time": "2015-08-06 11:58:00"
+    },
+    "season_status": 2,
+    "evaluate": "本片讲述了一群兔子是怎么从种花家一穷二白的时候，通过自身的努力与奋斗，蹬了鹰酱一脸血，并且养殖出了自己的大蘑菇，发展成为蓝星最强五流氓之一的故事。本片故事纯属虚构，如有雷同，纯属巧合。本片漫画更新频繁...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 2
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "本片讲述了一群兔子是怎么从种花家一穷二白的时候，通过自身的努力与奋斗，蹬了鹰酱一脸血，并且养殖出了自己的大蘑菇，发展成为蓝星最强五流氓之一的故事。本片故事纯属虚构，如有雷同，纯属巧合。本片漫画更新频繁...",
-    "subtitle": "用兔看历史",
-    "stat": {
-      "view": 252042752,
-      "follow": 3286674
-    },
-    "title": "那年那兔那些事儿 第一季",
-    "styles": null,
     "rating": {
       "score": 9.7
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2015-08-06 11:58:00",
-      "index_show": "全12话"
+    "stat": {
+      "view": 252044975,
+      "follow": 3286683
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/ddb029703d0838000c3b7e2e39718a36dbbdcb77.jpg",
+    "styles": null,
+    "subtitle": "用兔看历史",
+    "title": "那年那兔那些事儿 第一季",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "更新至虚天战纪",
+      "pub_time": "2025-01-04 11:00:00"
+    },
+    "season_status": 13,
+    "evaluate": "【第1集免费，第2-10集、第22-25集、第73-76集限时免费】\n看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 2
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "【第1集免费，第2-10集、第22-25集、第73-76集限时免费】\n看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑...",
-    "subtitle": "平凡少年修炼成神",
-    "stat": {
-      "view": 2992852974,
-      "follow": 10025604
+    "rating": {
+      "score": 9.7
     },
-    "title": "凡人修仙传",
+    "progress": "/",
+    "stat": {
+      "view": 2993056962,
+      "follow": 10025873
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a5dc75c70d0f54091b5cdbb32683084b7cb5bfd9.png",
     "styles": [
       "小说改",
       "热血",
@@ -245,251 +289,251 @@
       "古风",
       "武侠"
     ],
-    "rating": {
-      "score": 9.7
-    },
-    "progress": "/",
-    "new_ep": {
-      "pub_time": "2025-01-04 11:00:00",
-      "index_show": "更新至虚天战纪"
-    },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a5dc75c70d0f54091b5cdbb32683084b7cb5bfd9.png",
-    "areas": [
-      {
-        "id": 1,
-        "name": "中国大陆"
-      }
-    ],
-    "season_status": 13
+    "subtitle": "平凡少年修炼成神",
+    "title": "凡人修仙传",
+    "update_time": "2025-01-06 00:44:58"
   },
   {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "汤姆猫和和小老鼠杰瑞生活在同一屋檐下，汤姆总想着驱赶这位讨厌的邻居，却一次都没有成功过。汤姆为了抓住杰瑞用尽方法——斧头、锤子、炸药、鞭炮和陷阱，也利用自己的体型优势抓住过杰瑞，但机智的杰瑞总是能从汤...",
-    "subtitle": "合家欢的猫和老鼠",
-    "stat": {
-      "view": 9082910,
-      "follow": 2770321
+    "new_ep": {
+      "index_show": "全15话",
+      "pub_time": "2022-08-30 10:00:02"
     },
-    "title": "猫和老鼠喜剧秀",
-    "styles": [
-      "少儿",
-      "搞笑"
+    "season_status": 13,
+    "evaluate": "汤姆猫和和小老鼠杰瑞生活在同一屋檐下，汤姆总想着驱赶这位讨厌的邻居，却一次都没有成功过。汤姆为了抓住杰瑞用尽方法——斧头、锤子、炸药、鞭炮和陷阱，也利用自己的体型优势抓住过杰瑞，但机智的杰瑞总是能从汤...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
     ],
     "rating": {
       "score": 9
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2022-08-30 10:00:02",
-      "index_show": "全15话"
+    "stat": {
+      "view": 9083388,
+      "follow": 2770323
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/image/d716a784aad6c1d5778f82004036520520bed474.jpg",
+    "styles": [
+      "少儿",
+      "搞笑"
+    ],
+    "subtitle": "合家欢的猫和老鼠",
+    "title": "猫和老鼠喜剧秀",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全16话",
+      "pub_time": "2021-11-08 10:00:05"
+    },
+    "season_status": 13,
+    "evaluate": "汤姆和杰瑞（现在戴了红色的领结）在世界各地参加体育比赛，他们互相恶作剧的同时也会一起帮助他人解决困难。在这个系列里，汤姆和杰瑞成为好朋友。...",
     "areas": [
       {
         "id": 3,
         "name": "美国"
       }
-    ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "汤姆和杰瑞（现在戴了红色的领结）在世界各地参加体育比赛，他们互相恶作剧的同时也会一起帮助他人解决困难。在这个系列里，汤姆和杰瑞成为好朋友。...",
-    "subtitle": "汤姆和杰瑞做朋友？",
-    "stat": {
-      "view": 15364999,
-      "follow": 2418121
-    },
-    "title": "猫和老鼠（1975）",
-    "styles": [
-      "少儿",
-      "搞笑"
     ],
     "rating": {
       "score": 9.7
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2021-11-08 10:00:05",
-      "index_show": "全16话"
+    "stat": {
+      "view": 15365627,
+      "follow": 2418122
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/image/71c5ec79a7137a08558865463a0649e6b8a4bbd3.jpg",
+    "styles": [
+      "少儿",
+      "搞笑"
+    ],
+    "subtitle": "汤姆和杰瑞做朋友？",
+    "title": "猫和老鼠（1975）",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
+    "new_ep": {
+      "index_show": "全55话",
+      "pub_time": "2018-09-14 18:53:00"
+    },
+    "season_status": 2,
+    "evaluate": "机灵老鼠与笨猫的故事，堪与米老鼠和唐老鸭的故事相媲美。没有动物世界中恃强凌弱的残酷，只有两个邻居之间的日常琐事和纷争，诸如杰瑞偷吃了汤姆的奶酪，汤姆把捕鼠器放到了杰里的洞门口等等，中间穿插的无数恶作剧...",
     "areas": [
       {
         "id": 3,
         "name": "美国"
       }
-    ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "机灵老鼠与笨猫的故事，堪与米老鼠和唐老鸭的故事相媲美。没有动物世界中恃强凌弱的残酷，只有两个邻居之间的日常琐事和纷争，诸如杰瑞偷吃了汤姆的奶酪，汤姆把捕鼠器放到了杰里的洞门口等等，中间穿插的无数恶作剧...",
-    "subtitle": "童年经典，百看不厌",
-    "stat": {
-      "view": 539656056,
-      "follow": 3672968
-    },
-    "title": "猫和老鼠 旧版",
-    "styles": [
-      "日常",
-      "少儿",
-      "搞笑"
     ],
     "rating": {
       "score": 9.9
     },
     "progress": "/",
-    "new_ep": {
-      "pub_time": "2018-09-14 18:53:00",
-      "index_show": "全55话"
+    "stat": {
+      "view": 539677177,
+      "follow": 3673028
     },
     "cover": "http://i0.hdslb.com/bfs/bangumi/065926cbda8f464a31293758054620cca15e5589.jpg",
-    "areas": [
-      {
-        "id": 3,
-        "name": "美国"
-      }
+    "styles": [
+      "日常",
+      "少儿",
+      "搞笑"
     ],
-    "season_status": 2
+    "subtitle": "童年经典，百看不厌",
+    "title": "猫和老鼠 旧版",
+    "update_time": "2025-01-06 00:44:58"
   },
   {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "这是一个怪兽如日常般威胁人类的世界。日比野卡夫卡原本立志加入“日本防卫队”，却放弃梦想，在怪兽清扫公司工作。与他一同发誓“两人一起消灭所有怪兽”的发小·亚白米娜已经成为第三部队队长大显身手，再加上遇到...",
-    "subtitle": "怪兽来袭，战力爆表",
-    "stat": {
-      "view": 153539552,
-      "follow": 2120583
-    },
-    "title": "怪兽8号",
-    "styles": [
-      "热血",
-      "奇幻",
-      "战斗",
-      "漫画改"
-    ],
-    "rating": {
-      "score": 8.7
-    },
-    "progress": "/",
     "new_ep": {
-      "pub_time": "2024-07-05 20:00:01",
-      "index_show": "全12话"
+      "index_show": "全12话",
+      "pub_time": "2024-07-05 20:00:01"
     },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3facee1782bd82c3d8ed4c44ba3110153f1c94e2.png",
+    "season_status": 13,
+    "evaluate": "这是一个怪兽如日常般威胁人类的世界。日比野卡夫卡原本立志加入“日本防卫队”，却放弃梦想，在怪兽清扫公司工作。与他一同发誓“两人一起消灭所有怪兽”的发小·亚白米娜已经成为第三部队队长大显身手，再加上遇到...",
     "areas": [
       {
         "id": 2,
         "name": "日本"
       }
     ],
-    "season_status": 13
+    "rating": {
+      "score": 8.7
+    },
+    "progress": "/",
+    "stat": {
+      "view": 153541767,
+      "follow": 2120593
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3facee1782bd82c3d8ed4c44ba3110153f1c94e2.png",
+    "styles": [
+      "热血",
+      "奇幻",
+      "战斗",
+      "漫画改"
+    ],
+    "subtitle": "怪兽来袭，战力爆表",
+    "title": "怪兽8号",
+    "update_time": "2025-01-06 00:44:58"
   },
   {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "国家的丰饶、麾下勇者的数量、\n以及国王本人如何像勇者一般强大，\n这些要素的综合排名，便是所谓的“国王排名”。\n主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。\n但是波吉却生来又聋又哑，贫弱到挥不...",
-    "subtitle": "要成为最伟大的国王",
-    "stat": {
-      "view": 509229019,
-      "follow": 8963417
+    "new_ep": {
+      "index_show": "全23话",
+      "pub_time": "2022-03-25 01:45:01"
     },
-    "title": "国王排名",
+    "season_status": 13,
+    "evaluate": "国家的丰饶、麾下勇者的数量、\n以及国王本人如何像勇者一般强大，\n这些要素的综合排名，便是所谓的“国王排名”。\n主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。\n但是波吉却生来又聋又哑，贫弱到挥不...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "rating": {
+      "score": 7
+    },
+    "progress": "/",
+    "stat": {
+      "view": 509229620,
+      "follow": 8963400
+    },
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/8aead7650fb3ded88f24654b7b66823169cb9a8c.png",
     "styles": [
       "奇幻",
       "漫画改",
       "励志",
       "冒险"
     ],
-    "rating": {
-      "score": 7
-    },
-    "progress": "/",
+    "subtitle": "要成为最伟大的国王",
+    "title": "国王排名",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
     "new_ep": {
-      "pub_time": "2022-03-25 01:45:01",
-      "index_show": "全23话"
+      "index_show": "全24话",
+      "pub_time": "2024-06-13 21:30:00"
     },
-    "cover": "http://i0.hdslb.com/bfs/bangumi/image/8aead7650fb3ded88f24654b7b66823169cb9a8c.png",
+    "season_status": 13,
+    "evaluate": "迷宫饭。是“吃”，还是“被吃”，这是一个问题。\n在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。\n尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。\n面对妹妹可能会被消化掉的...",
     "areas": [
       {
         "id": 2,
         "name": "日本"
       }
     ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "迷宫饭。是“吃”，还是“被吃”，这是一个问题。\n在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。\n尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。\n面对妹妹可能会被消化掉的...",
-    "subtitle": "我在地下城里做吃播",
-    "stat": {
-      "view": 230214049,
-      "follow": 2807621
+    "rating": {
+      "score": 9.8
     },
-    "title": "迷宫饭",
+    "progress": "/",
+    "stat": {
+      "view": 230220984,
+      "follow": 2807722
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/8cf02211c3fefa4eccc7307ca4fab404707d0cf7.png",
     "styles": [
       "搞笑",
       "美食",
       "漫画改",
       "冒险"
     ],
-    "rating": {
-      "score": 9.8
-    },
-    "progress": "/",
+    "subtitle": "我在地下城里做吃播",
+    "title": "迷宫饭",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
     "new_ep": {
-      "pub_time": "2024-06-13 21:30:00",
-      "index_show": "全24话"
+      "index_show": "全38话",
+      "pub_time": "2022-12-01 17:01:15"
     },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/8cf02211c3fefa4eccc7307ca4fab404707d0cf7.png",
+    "season_status": 13,
+    "evaluate": "西历2011年，美国·佛罗里达州。\n在与恋人兜风途中遇到了交通事故的空条徐伦，因被陷害而获刑15年。\n\n收容设施是州立绿海豚街重警备监狱——别名「水族馆」。\n深陷绝望之中的徐伦，在手握父亲所托的吊坠时...",
     "areas": [
       {
         "id": 2,
         "name": "日本"
       }
     ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "西历2011年，美国·佛罗里达州。\n在与恋人兜风途中遇到了交通事故的空条徐伦，因被陷害而获刑15年。\n\n收容设施是州立绿海豚街重警备监狱——别名「水族馆」。\n深陷绝望之中的徐伦，在手握父亲所托的吊坠时...",
-    "subtitle": "百年恩怨终结于此",
-    "stat": {
-      "view": 325145646,
-      "follow": 8017480
+    "rating": {
+      "score": 9.8
     },
-    "title": "JOJO的奇妙冒险 石之海",
+    "progress": "/",
+    "stat": {
+      "view": 325150208,
+      "follow": 8017494
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/14ccd8457a9b7351e7be1d87db2719791108ddc0.png",
     "styles": [
       "热血",
       "奇幻",
       "战斗",
       "漫画改"
     ],
-    "rating": {
-      "score": 9.8
-    },
-    "progress": "/",
+    "subtitle": "百年恩怨终结于此",
+    "title": "JOJO的奇妙冒险 石之海",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
     "new_ep": {
-      "pub_time": "2022-12-01 17:01:15",
-      "index_show": "全38话"
+      "index_show": "全22话",
+      "pub_time": "2015-03-20 01:45:00"
     },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/14ccd8457a9b7351e7be1d87db2719791108ddc0.png",
+    "season_status": 13,
+    "evaluate": "从小接受母亲严格的钢琴训练，并在各种音乐比赛上获胜的“神童”——有马公生，11岁那年因为母亲去世，他从此变得听不见钢琴的声音，因而放弃了弹奏钢琴。\n国中三年级时，在青梅竹马椿的引见下，公生认识了与他同...",
     "areas": [
       {
         "id": 2,
         "name": "日本"
       }
     ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "从小接受母亲严格的钢琴训练，并在各种音乐比赛上获胜的“神童”——有马公生，11岁那年因为母亲去世，他从此变得听不见钢琴的声音，因而放弃了弹奏钢琴。\n国中三年级时，在青梅竹马椿的引见下，公生认识了与他同...",
-    "subtitle": "没有你的四月又来了",
-    "stat": {
-      "view": 223081382,
-      "follow": 6777964
+    "rating": {
+      "score": 9.8
     },
-    "title": "四月是你的谎言",
+    "progress": "/",
+    "stat": {
+      "view": 223083010,
+      "follow": 6778002
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/ec912249f5bf1fe1521c9a2df5ae655567bd85ef.png",
     "styles": [
       "少女",
       "音乐",
@@ -497,32 +541,32 @@
       "恋爱",
       "漫画改"
     ],
-    "rating": {
-      "score": 9.8
-    },
-    "progress": "/",
+    "subtitle": "没有你的四月又来了",
+    "title": "四月是你的谎言",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
     "new_ep": {
-      "pub_time": "2015-03-20 01:45:00",
-      "index_show": "全22话"
+      "index_show": "全29话",
+      "pub_time": "2020-11-27 00:00:00"
     },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/ec912249f5bf1fe1521c9a2df5ae655567bd85ef.png",
+    "season_status": 13,
+    "evaluate": "史莱姆生活，开始了。\n上班族的三上悟在道路上被歹徒给刺杀身亡后，回过神来发现自己转生到了异世界。\n不过，自己居然是“史莱姆”！\n他在得到利姆鲁这个名字后开始了自己的史莱姆人生，随着与各个种族相处交流的...",
     "areas": [
       {
         "id": 2,
         "name": "日本"
       }
     ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "史莱姆生活，开始了。\n上班族的三上悟在道路上被歹徒给刺杀身亡后，回过神来发现自己转生到了异世界。\n不过，自己居然是“史莱姆”！\n他在得到利姆鲁这个名字后开始了自己的史莱姆人生，随着与各个种族相处交流的...",
-    "subtitle": "参见萌王！",
-    "stat": {
-      "view": 500312059,
-      "follow": 7846959
+    "rating": {
+      "score": 9.4
     },
-    "title": "关于我转生变成史莱姆这档事",
+    "progress": "/",
+    "stat": {
+      "view": 500319356,
+      "follow": 7846995
+    },
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a4c0e0ccc44fe3949a734f546cf5bb07da925bad.png",
     "styles": [
       "奇幻",
       "战斗",
@@ -532,64 +576,64 @@
       "冒险",
       "架空"
     ],
-    "rating": {
-      "score": 9.4
-    },
-    "progress": "/",
+    "subtitle": "参见萌王！",
+    "title": "关于我转生变成史莱姆这档事",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
     "new_ep": {
-      "pub_time": "2020-11-27 00:00:00",
-      "index_show": "全29话"
+      "index_show": "全24话",
+      "pub_time": "2021-03-27 01:40:00"
     },
-    "cover": "http://i0.hdslb.com/bfs/bangumi/a4c0e0ccc44fe3949a734f546cf5bb07da925bad.png",
+    "season_status": 13,
+    "evaluate": "少年战斗着——「为寻求正确的死亡」\n辛酸·后悔·耻辱\n\n人类产生的负面情感，化为诅咒，潜入日常生活\n\n诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡\n并且，诅咒只能以诅咒祓除\n\n拥有惊人身体...",
     "areas": [
       {
         "id": 2,
         "name": "日本"
       }
     ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "少年战斗着——「为寻求正确的死亡」\n辛酸·后悔·耻辱\n\n人类产生的负面情感，化为诅咒，潜入日常生活\n\n诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡\n并且，诅咒只能以诅咒祓除\n\n拥有惊人身体...",
-    "subtitle": "我无敌，你随意",
-    "stat": {
-      "view": 949625865,
-      "follow": 13165545
+    "rating": {
+      "score": 9.7
     },
-    "title": "咒术回战",
+    "progress": "/",
+    "stat": {
+      "view": 949630326,
+      "follow": 13165550
+    },
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
     "styles": [
       "热血",
       "奇幻",
       "战斗",
       "漫画改"
     ],
-    "rating": {
-      "score": 9.7
-    },
-    "progress": "/",
+    "subtitle": "我无敌，你随意",
+    "title": "咒术回战",
+    "update_time": "2025-01-06 00:44:58"
+  },
+  {
     "new_ep": {
-      "pub_time": "2021-03-27 01:40:00",
-      "index_show": "全24话"
+      "index_show": "全28话",
+      "pub_time": "2024-04-12 20:00:01"
     },
-    "cover": "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
+    "season_status": 13,
+    "evaluate": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。\n\n邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。为了前...",
     "areas": [
       {
         "id": 2,
         "name": "日本"
       }
     ],
-    "season_status": 13
-  },
-  {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。\n\n邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。为了前...",
-    "subtitle": "花海盛开，故人归来",
-    "stat": {
-      "view": 323332824,
-      "follow": 4431143
+    "rating": {
+      "score": 9.9
     },
-    "title": "葬送的芙莉莲",
+    "progress": "/",
+    "stat": {
+      "view": 323353001,
+      "follow": 4431335
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f3ebb500b701a387f5abde67516c5c96bbd2faff.png",
     "styles": [
       "治愈",
       "奇幻",
@@ -597,48 +641,35 @@
       "漫画改",
       "冒险"
     ],
-    "rating": {
-      "score": 9.9
-    },
-    "progress": "/",
-    "new_ep": {
-      "pub_time": "2024-04-12 20:00:01",
-      "index_show": "全28话"
-    },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f3ebb500b701a387f5abde67516c5c96bbd2faff.png",
-    "areas": [
-      {
-        "id": 2,
-        "name": "日本"
-      }
-    ],
-    "season_status": 13
+    "subtitle": "花海盛开，故人归来",
+    "title": "葬送的芙莉莲",
+    "update_time": "2025-01-06 00:44:58"
   },
   {
-    "update_time": "2025-01-05 18:10:32",
-    "evaluate": "在大气磅礴的奇幻世界里，主角方寒如何凭借一己之力纵横天地之间。靠着一股不服输的倔强突破神通的奥秘，将肉身锻成永生之躯。无穷无尽的新奇法宝，崭新的仙魔凡三界盛世将由主角依次开启。将带你感受仙教魔门，人魔...",
-    "subtitle": "仙魔双修，唯我独尊",
-    "stat": {
-      "view": 534917844,
-      "follow": 4099757
-    },
-    "title": "永生",
-    "styles": null,
-    "rating": {
-      "score": 8.6
-    },
-    "progress": "/",
     "new_ep": {
-      "pub_time": "2024-11-08 12:00:01",
-      "index_show": "更新至第56话"
+      "index_show": "更新至第56话",
+      "pub_time": "2024-11-08 12:00:01"
     },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/739a202bc7dd0efc2d9c7d2a130dd705324f928f.png",
+    "season_status": 13,
+    "evaluate": "在大气磅礴的奇幻世界里，主角方寒如何凭借一己之力纵横天地之间。靠着一股不服输的倔强突破神通的奥秘，将肉身锻成永生之躯。无穷无尽的新奇法宝，崭新的仙魔凡三界盛世将由主角依次开启。将带你感受仙教魔门，人魔...",
     "areas": [
       {
         "id": 1,
         "name": "中国大陆"
       }
     ],
-    "season_status": 13
+    "rating": {
+      "score": 8.6
+    },
+    "progress": "/",
+    "stat": {
+      "view": 534953121,
+      "follow": 4099850
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/739a202bc7dd0efc2d9c7d2a130dd705324f928f.png",
+    "styles": null,
+    "subtitle": "仙魔双修，唯我独尊",
+    "title": "永生",
+    "update_time": "2025-01-06 00:44:58"
   }
 ]
