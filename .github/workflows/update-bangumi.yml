@@ -60,8 +60,8 @@ jobs:
               }
               
               # 保存为两个不同的JSON文件
-              $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "/public/data/bangumi.json" -Encoding UTF8
-              $dramaList | ConvertTo-Json -Depth 10 | Set-Content -Path "/public/data/movies.json" -Encoding UTF8
+              $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "public/data/bangumi.json" -Encoding UTF8
+              $dramaList | ConvertTo-Json -Depth 10 | Set-Content -Path "public/data/movies.json" -Encoding UTF8
               
               # 如果有更改，提交到仓库
               git config --global user.name 'GitHub Action'
