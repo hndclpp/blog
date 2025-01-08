@@ -1,0 +1,238 @@
+/* 大屏幕布局 (1400px以上) */
+@media (min-width: 1401px) {
+    .container {
+        max-width: 1400px;
+        margin: 0 auto;
+    }
+    
+    .left-sidebar {
+        left: calc(50% - 700px);
+    }
+    
+    .right-sidebar {
+        right: calc(50% - 700px);
+    }
+    
+    .main-content {
+        width: 800px;
+        margin-left: calc(50% - 400px);
+    }
+
+    /* 大屏幕隐藏header */
+    .mobile-header {
+        display: none;
+    }
+}
+
+/* 中等屏幕布局 (768px - 1400px) */
+@media (max-width: 1400px) {
+    .container {
+        margin: 0;
+        max-width: 100%;
+    }
+    
+    /* 添加半透明header */
+    .mobile-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 52px;
+        background: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        z-index: 1000;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 16px;
+    }
+    
+    .left-sidebar {
+        left: -250px;
+        transition: left 0.3s ease;
+        z-index: 1000;
+    }
+    
+    .left-sidebar.active {
+        left: 0;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    
+    .right-sidebar {
+        right: -300px;
+        transition: right 0.3s ease;
+        z-index: 1000;
+    }
+    
+    .right-sidebar.active {
+        right: 0;
+        box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    
+    .main-content {
+        width: calc(100% - 40px);
+        max-width: 800px;
+        margin: 0 auto;
+        padding-top: 52px;
+    }
+    
+    /* 调整侧边栏按钮样式 */
+    .sidebar-toggle {
+        position: relative;
+        padding: 8px;
+        background: transparent;
+        border-radius: 8px;
+        cursor: pointer;
+        z-index: 1001;
+        transition: all 0.2s ease;
+        width: 36px;
+        height: 36px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: none;
+        color: #666;
+        font-size: 20px;
+    }
+    
+    .sidebar-toggle:hover {
+        background: rgba(0, 0, 0, 0.06);
+        color: #333;
+    }
+    
+    .sidebar-toggle:active {
+        background: rgba(0, 0, 0, 0.09);
+        transform: scale(0.96);
+    }
+    
+    /* 遮罩层 */
+    .sidebar-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.3);
+        z-index: 999;
+        backdrop-filter: blur(2px);
+        -webkit-backdrop-filter: blur(2px);
+    }
+    
+    .sidebar-overlay.active {
+        display: block;
+    }
+}
+
+/* 小屏幕布局 (768px以下) */
+@media (max-width: 768px) {
+    .main-content {
+        padding: 52px 16px 16px 16px;
+        width: 100%;
+    }
+    
+    .left-sidebar,
+    .right-sidebar {
+        width: 280px;
+    }
+    
+    .left-sidebar {
+        left: -280px;
+    }
+    
+    .right-sidebar {
+        right: -280px;
+    }
+    
+    /* 画册布局调整 */
+    .gallery-controls {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .gallery-categories {
+        justify-content: center;
+    }
+    
+    .gallery-sort {
+        text-align: center;
+    }
+    
+    .gallery-grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 15px;
+    }
+    
+    /* 追番布局调整 */
+    .anime-tabs {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .anime-list {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        gap: 15px;
+    }
+    
+    /* 文章列表调整 */
+    .post-title {
+        font-size: 1.2em;
+        margin: 0.8em 0;
+    }
+    
+    .post-meta {
+        flex-direction: column;
+        gap: 5px;
+        color: #666;
+        font-size: 0.9em;
+    }
+}
+
+/* 超小屏幕布局 (480px以下) */
+@media (max-width: 480px) {
+    .main-content {
+        padding: 52px 12px 12px 12px;
+    }
+    
+    .left-sidebar,
+    .right-sidebar {
+        width: 260px;
+    }
+    
+    .left-sidebar {
+        left: -260px;
+    }
+    
+    .right-sidebar {
+        right: -260px;
+    }
+    
+    /* 画册布局调整 */
+    .gallery-grid {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 10px;
+    }
+    
+    /* 追番布局调整 */
+    .anime-list {
+        grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+        gap: 10px;
+    }
+    
+    /* 文章内容调整 */
+    .post-content {
+        font-size: 14px;
+        line-height: 1.6;
+    }
+    
+    .post-title {
+        font-size: 1.1em;
+        margin: 0.6em 0;
+    }
+} 

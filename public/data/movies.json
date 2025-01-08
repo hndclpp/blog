@@ -1,0 +1,168 @@
+[
+    {
+      "season_type_name": "电影",
+      "evaluate": "太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园。然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战。...",
+      "badge_info": {
+        "text": "会员专享",
+        "bg_color": "#FB7299",
+        "bg_color_night": "#D44E7D",
+        "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+        }
+      },
+      "styles": [
+        "科幻",
+        "冒险",
+        "灾难"
+      ],
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/4ee5e1cea45fb742c77d17c1b2d115f09508a878.png",
+      "new_ep": {
+        "index_show": "2023-01-22上映",
+        "pub_time": "2023-04-14 15:49:00"
+      },
+      "subtitle": "国产科幻巨制",
+      "stat": {
+        "view": 69711022
+      },
+      "rating": {
+        "score": 9.8
+      },
+      "url": "https://www.bilibili.com/bangumi/play/ss44847?theme=movie",
+      "title": "流浪地球2",
+      "areas": [
+        {
+          "id": 1,
+          "name": "中国大陆"
+        }
+      ]
+    },
+    {
+      "season_type_name": "电视剧",
+      "evaluate": "记得《疯城记》吗？Reece Shearsmith和Steve Pemberton再度携手归来，联合BBC推出这部暗黑喜剧《Inside NO.9》,关于片名，主创在一次采访中提到这完全是随机想到的一...",
+      "badge_info": {
+        "text": "会员专享",
+        "bg_color": "#FB7299",
+        "bg_color_night": "#D44E7D",
+        "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+        }
+      },
+      "styles": [
+        "搞笑",
+        "悬疑",
+        "剧情"
+      ],
+      "cover": "http://i0.hdslb.com/bfs/bangumi/afb65710846413de31a2375783db6b7cc43fab40.jpg",
+      "new_ep": {
+        "index_show": "全6集",
+        "pub_time": "2018-03-12 17:14:00"
+      },
+      "subtitle": "全程高能反转英剧",
+      "stat": {
+        "view": 30483217
+      },
+      "rating": {
+        "score": 9.6
+      },
+      "url": "https://www.bilibili.com/bangumi/play/ss23801",
+      "title": "九号秘事 第一季",
+      "areas": [
+        {
+          "id": 4,
+          "name": "英国"
+        }
+      ]
+    },
+    {
+      "season_type_name": "纪录片",
+      "evaluate": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的...",
+      "badge_info": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "styles": [
+        "科技"
+      ],
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/dc967887c0ef794dd64dace4c52feeed0d46157f.jpg",
+      "new_ep": {
+        "index_show": "全70集",
+        "pub_time": "2021-12-24 21:00:00"
+      },
+      "subtitle": "硬核科普爷青回！",
+      "stat": {
+        "view": 118666995
+      },
+      "rating": {
+        "score": 9.8
+      },
+      "url": "https://www.bilibili.com/bangumi/play/ss39852",
+      "title": "流言终结者（精选版）",
+      "areas": [
+        {
+          "id": 3,
+          "name": "美国"
+        }
+      ]
+    },
+    {
+      "season_type_name": "电影",
+      "evaluate": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前NASA宇航员库珀（马修·麦...",
+      "badge_info": {
+        "text": "会员专享",
+        "bg_color": "#FB7299",
+        "bg_color_night": "#D44E7D",
+        "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+        }
+      },
+      "styles": [
+        "科幻",
+        "冒险",
+        "剧情"
+      ],
+      "cover": "http://i0.hdslb.com/bfs/bangumi/3b8acd7a69aa3462297b0b1f206e7093e4961914.jpg",
+      "new_ep": {
+        "index_show": "2014-11-07上映",
+        "pub_time": "2019-10-10 18:00:00"
+      },
+      "subtitle": "不要温和地走进良夜",
+      "stat": {
+        "view": 41801308
+      },
+      "rating": {
+        "score": 9.9
+      },
+      "url": "https://www.bilibili.com/bangumi/play/ss28585?theme=movie",
+      "title": "星际穿越",
+      "areas": [
+        {
+          "id": 3,
+          "name": "美国"
+        },
+        {
+          "id": 4,
+          "name": "英国"
+        },
+        {
+          "id": 5,
+          "name": "加拿大"
+        },
+        {
+          "id": 23,
+          "name": "冰岛"
+        }
+      ]
+    }
+  ]
