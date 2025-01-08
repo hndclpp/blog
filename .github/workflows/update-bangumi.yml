@@ -60,15 +60,24 @@ jobs:
               }
               
               # 保存为两个不同的JSON文件
+              # 确保目录存在
+              New-Item -ItemType Directory -Force -Path "public/data"
               $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "public/data/bangumi.json" -Encoding UTF8
               $dramaList | ConvertTo-Json -Depth 10 | Set-Content -Path "public/data/movies.json" -Encoding UTF8
               
               # 如果有更改，提交到仓库
               git config --global user.name 'GitHub Action'
               git config --global user.email 'action@github.com'
-              git add bangumi.json movies.json
-              git commit -m "Update bangumi and movies data" || exit 0
-              git push
+              git add "public/data/bangumi.json"
+              git add "public/data/movies.json"
+              
+              # 使用PowerShell原生的退出代码处理
+              git commit -m "Update bangumi and movies data"
+              if ($LASTEXITCODE -eq 0) {
+                  git push
+              } else {
+                  Write-Host "No changes to commit"
+              }
               
           } catch {
               Write-Error "发生错误: $_"
