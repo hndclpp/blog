@@ -1,8 +1,8 @@
-name: Update Bangumi Data
+name: Update The Latest Data
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 每6小时运行一次
+    - cron: '0 */12 * * *'  # 每12小时运行一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -10,14 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Create public directory
-        run: mkdir -p public
-      
+      - uses: actions/checkout@v3      
       - name: Update Bangumi Data
         env:
-          BILIBILI_UID: "356742437"  # 你的B站UID
+          BILIBILI_UID: "356742437"  # B站UID
         run: |
           # 设置编码为UTF8
           [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
@@ -25,48 +21,53 @@ jobs:
           
           try {
               # 获取追番数据
-              $url = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=1&follow_status=0&pn=1&ps=30"
-              $response = Invoke-RestMethod -Uri $url -ErrorAction Stop
+              $animeUrl = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=1&follow_status=0&pn=1&ps=30"
+              $animeResponse = Invoke-RestMethod -Uri $animeUrl -ErrorAction Stop
               
-              if ($response.code -ne 0) {
-                  Write-Error "$($response.message)"
+              # 获取追剧数据
+              $dramaUrl = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=2&follow_status=0&pn=1&ps=30"
+              $dramaResponse = Invoke-RestMethod -Uri $dramaUrl -ErrorAction Stop
+              
+              if ($animeResponse.code -ne 0 -or $dramaResponse.code -ne 0) {
+                  Write-Error "获取数据失败"
                   exit 1
               }
               
-              # 处理数据
-              $animeList = $response.data.list | ForEach-Object {
+              # 处理追番数据
+              $animeList = $animeResponse.data.list | ForEach-Object {
                   @{
                       title = $_.title
                       cover = $_.cover
-                      progress = "$($_.progress)/$($_.total)"
+                      url = $_.url
                       evaluate = $_.evaluate
-                      areas = $_.areas
-                      styles = $_.styles
                       new_ep = @{
                           index_show = $_.new_ep.index_show
-                          pub_time = $_.new_ep.pub_time
                       }
-                      season_status = $_.season_status
-                      subtitle = $_.subtitle
-                      rating = @{
-                          score = $_.rating.score
-                      }
-                      stat = @{
-                          follow = $_.stat.follow
-                          view = $_.stat.view
-                      }
-                      update_time = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
                   }
               }
               
-              # 保存为JSON文件到 public 目录
-              $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "public/bangumi.json" -Encoding UTF8
+              # 处理追剧数据
+              $dramaList = $dramaResponse.data.list | ForEach-Object {
+                  @{
+                      title = $_.title
+                      cover = $_.cover
+                      url = $_.url
+                      evaluate = $_.evaluate
+                      new_ep = @{
+                          index_show = $_.new_ep.index_show
+                      }
+                  }
+              }
+              
+              # 保存为两个不同的JSON文件
+              $animeList | ConvertTo-Json -Depth 10 | Set-Content -Path "/public/data/bangumi.json" -Encoding UTF8
+              $dramaList | ConvertTo-Json -Depth 10 | Set-Content -Path "/public/data/movies.json" -Encoding UTF8
               
               # 如果有更改，提交到仓库
               git config --global user.name 'GitHub Action'
               git config --global user.email 'action@github.com'
-              git add public/bangumi.json
-              git commit -m "Update bangumi data" || exit 0  # 如果没有更改就退出
+              git add bangumi.json movies.json
+              git commit -m "Update bangumi and movies data" || exit 0
               git push
               
           } catch {
@@ -74,10 +75,3 @@ jobs:
               exit 1
           }
         shell: pwsh
-        
-      - name: Upload artifact
-        if: always()
-        uses: actions/upload-artifact@v3
-        with:
-          name: bangumi-data
-          path: public/bangumi.json 
