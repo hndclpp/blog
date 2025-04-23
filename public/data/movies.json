@@ -1,5 +1,23 @@
 [
   {
+    "title": "宇宙",
+    "new_ep": {
+      "index_show": "全5集"
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6b7e99d10037915109410d645378346ed3e09f01.jpg",
+    "url": "https://www.bilibili.com/bangumi/play/ss91961",
+    "evaluate": "《宇宙》是一部由Ashley Gething执导，布莱恩·考克斯解说的英国BBC纪录片。该片探究广阔的宇宙空间，揭示永恒变化的宇宙的那些纯粹的戏剧性时刻。..."
+  },
+  {
+    "title": "流言终结者 第一季",
+    "new_ep": {
+      "index_show": "即将开播"
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b81cfdedefb20ba3d0334ae3aece16c690ef50cf.png",
+    "url": "https://www.bilibili.com/bangumi/play/ss95803",
+    "evaluate": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的..."
+  },
+  {
     "title": "狂野之河",
     "new_ep": {
       "index_show": "更新至第4集"
@@ -7,15 +25,6 @@
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/4939b1da63d8a54245cab1875c4a8735e0c8849d.png",
     "url": "https://www.bilibili.com/bangumi/play/ss93142",
     "evaluate": "大自然源源不绝的淡水资源，竟正在以惊人的速度消失。作为极限垂钓爱好者及生物学家的杰里米•韦德，他因调查动物世界中的河中巨怪神秘鱼类而闻名，这一次他将深入世界各地，探寻河流陷入危机的重要证据。他出发至亚..."
-  },
-  {
-    "title": "宇宙",
-    "new_ep": {
-      "index_show": "更新至04中配版"
-    },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6b7e99d10037915109410d645378346ed3e09f01.jpg",
-    "url": "https://www.bilibili.com/bangumi/play/ss91961",
-    "evaluate": "《宇宙》是一部由Ashley Gething执导，布莱恩·考克斯解说的英国BBC纪录片。该片探究广阔的宇宙空间，揭示永恒变化的宇宙的那些纯粹的戏剧性时刻。..."
   },
   {
     "title": "11:14",
