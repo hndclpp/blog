@@ -1,6 +1,15 @@
 [
   {
     "new_ep": {
+      "index_show": "2023-01-22上映"
+    },
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4ee5e1cea45fb742c77d17c1b2d115f09508a878.png",
+    "title": "流浪地球2",
+    "url": "https://www.bilibili.com/bangumi/play/ss44847?theme=movie",
+    "evaluate": "太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园。然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战。..."
+  },
+  {
+    "new_ep": {
       "index_show": "2025-08-02上映"
     },
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/32e0bf2c5bebbdb274891b1e36b47e5329008763.png",
@@ -187,15 +196,6 @@
     "title": "星际穿越",
     "url": "https://www.bilibili.com/bangumi/play/ss28585?theme=movie",
     "evaluate": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前NASA宇航员库珀（马修·麦..."
-  },
-  {
-    "new_ep": {
-      "index_show": "2023-01-22上映"
-    },
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4ee5e1cea45fb742c77d17c1b2d115f09508a878.png",
-    "title": "流浪地球2",
-    "url": "https://www.bilibili.com/bangumi/play/ss44847?theme=movie",
-    "evaluate": "太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园。然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战。..."
   },
   {
     "new_ep": {
